@@ -4,7 +4,7 @@ public class swapnumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		float first = 1.20f, second = 2.45f;
+		float first = 1.30f, second = 2.45f;
 
         System.out.println("--Before swap--");
         System.out.println("First number = " + first);
